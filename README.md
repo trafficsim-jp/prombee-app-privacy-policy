@@ -133,40 +133,58 @@ The Company may disclose Your Personal Data in the good faith belief that such a
 ### Security of Your Personal Data
 The security of Your Personal Data is important to Us, but it should be noticed that no method of transmission over the Internet, or method of electronic storage is 100% secure. While We strive to use commercially acceptable means to protect Your Personal Data, We cannot guarantee its absolute security.
 
-## Welcome to GitHub Pages
+# GDPR Privacy
 
-You can use the [editor on GitHub](https://github.com/trafficsim-jp/prombee-app-privacy-policy/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Legal Basis for Processing Personal Data under GDPR
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We may process Personal Data under the following conditions:
 
-### Markdown
+- **Consent:** You have given Your consent for processing Personal Data for one or more specific purposes.
+- **Performance of a contract:** Provision of Personal Data is necessary for the performance of an agreement with You and/or for any pre-contractual obligations thereof.
+- **Legal obligations:** Processing Personal Data is necessary for compliance with a legal obligation to which the Company is subject.
+- **Vital interests:** Processing Personal Data is necessary in order to protect Your vital interests or of another natural person.
+- **Public interests:** Processing Personal Data is related to a task that is carried out in the public interest or in the exercise of official authority vested in the Company.
+- **Legitimate interests:** Processing Personal Data is necessary for the purposes of the legitimate interests pursued by the Company.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+In any case, the Company will gladly help to clarify the specific legal basis that applies to the processing, and in particular whether the provision of Personal Data is a statutory or contractual requirement, or a requirement necessary to enter into a contract.
 
-```markdown
-Syntax highlighted code block
+## Your Rights under the GDPR
 
-# Header 1
-## Header 2
-### Header 3
+The Company undertakes to respect the confidentiality of Your Personal Data and to guarantee You can exercise Your rights.
 
-- Bulleted
-- List
+You have the right under this Privacy Policy, and by law if You are within the EU, to:
 
-1. Numbered
-2. List
+- **Request access to Your Personal Data.** The right to access, update or delete the information We have on You. Whenever made possible, you can access, update or request deletion of Your Personal Data directly within Your account settings section. If you are unable to perform these actions yourself, please contact Us to assist You. This also enables You to receive a copy of the Personal Data We hold about You.
+- **Request correction of the Personal Data that We hold about You.** You have the right to have any incomplete or inaccurate information We hold about You corrected.
+- **Object to processing of Your Personal Data.** This right exists where We are relying on a legitimate interest as the legal basis for Our processing and there is something about Your particular situation, which makes You want to object to our processing of Your Personal Data on this ground. You also have the right to object where We are processing Your Personal Data for direct marketing purposes.
+- **Request erasure of Your Personal Data.** You have the right to ask Us to delete or remove Personal Data when there is no good reason for Us to continue processing it.
+- **Request the transfer of Your Personal Data.** We will provide to You, or to a third-party You have chosen, Your Personal Data in a structured, commonly used, machine-readable format. Please note that this right only applies to automated information which You initially provided consent for Us to use or where We used the information to perform a contract with You.
+- **Withdraw Your consent.** You have the right to withdraw Your consent on using your Personal Data. If You withdraw Your consent, We may not be able to provide You with access to certain specific functionalities of the Service.
 
-**Bold** and _Italic_ and `Code` text
+## Exercising of Your GDPR Data Protection Rights
 
-[Link](url) and ![Image](src)
-```
+You may exercise Your rights of access, rectification, cancellation and opposition by contacting Us. Please note that we may ask You to verify Your identity before responding to such requests. If You make a request, We will try our best to respond to You as soon as possible.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+You have the right to complain to a Data Protection Authority about Our collection and use of Your Personal Data. For more information, if You are in Japan, please contact Personal Information Protection Commission (PPC).
 
-### Jekyll Themes
+# Links to Other Websites
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/trafficsim-jp/prombee-app-privacy-policy/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Our Service may contain links to other websites that are not operated by Us. If You click on a third party link, You will be directed to that third party's site. We strongly advise You to review the Privacy Policy of every site You visit.
 
-### Support or Contact
+We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# Changes to this Privacy Policy
+We may update our Privacy Policy from time to time. We will notify You of any changes by posting the new Privacy Policy on this page.
+
+We will let You know via email and/or a prominent notice on Our Service, prior to the change becoming effective and update the "Last updated" date at the top of this Privacy Policy.
+
+You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
+
+# Contact Us
+
+If you have any questions about this Privacy Policy, You can contact us:
+
+- **By email:** info@trafficsim.co.jp
+- **By visiting this page on our website:** https://www.trafficsim.co.jp/contact/
+- **By phone number:** +8152-526-5162
+- **By mail:** 1-19-56 Taiko, Nakamura-ku, Nagoya, Aichi 453-0801 Japan
