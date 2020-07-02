@@ -12,7 +12,8 @@ We collect information directly from You for Your registrations, transactions, a
 We use Your Personal Data to provide and maintain Our Service, for the performance of the contract, and to manage Your requests. We do not share your Personal Data to third parties except on any following situations: with your consent, with Service Providers whose process requires Your Personal Data, when there is a legal obligation to do so, or when there is a change of control or sale of corporate entities or business units. 
 
 You have the right to access, correct, remove, and transfer Your Personal Data. You also have the right to withdraw Your consent on using Your Personal Data and to complain to a Data Protection Authority. You may exercise Your right by contacting us. 
-This summary doesn’t tell you everything, so please read on the following sections for the details.
+
+*This summary doesn’t tell you everything, so please read on the following sections for the details.*
 
 # Interpretation and Definitions
 
